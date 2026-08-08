@@ -1,4 +1,5 @@
 responsive-web-curso
+
 Este es un ejercicio básico de desarrollo web centrado en la creación de una tienda con diseño responsive utilizando tecnologías fundamentales del lado del cliente.
 📝 Descripción
 El proyecto consiste en la maquetación de una tienda virtual adaptada a diferentes dispositivos (móvil, tablet y escritorio). Se ha puesto especial énfasis en la estructura semántica y el diseño fluido mediante CSS.
