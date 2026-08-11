@@ -1,4 +1,4 @@
-# 📱 Curso de Web Responsive
+readme_v3_content = """# 📱 Curso de Web Responsive
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
@@ -31,7 +31,7 @@ responsive-web-curso/
 │   │   ├── styles.css        # Estilos globales y reglas CSS
 │   │   └── responsive.css    # Media Queries y ajustes por dispositivo
 │   ├── js/
-│   │   └── main.js           # Scripts y funcionalidades del sitio
+│   │   └── main.js           # Scripts y funciones del sitio
 │   └── img/                  # Recursos gráficos e imágenes del proyecto
 ├── index.html                # Página principal
 ├── README.md                 # Documentación del proyecto
