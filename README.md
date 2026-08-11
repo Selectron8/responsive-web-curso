@@ -21,30 +21,6 @@ Este repositorio contiene las prácticas, proyectos y ejercicios realizados dura
 - 🏗️ **HTML5 Semántico**: Uso correcto de etiquetas estructurales (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
 
 ---
-## 📂 Estructura del Proyecto
-
-```text
-responsive-web-curso/
-├── assets/
-│   ├── css/
-│   │   ├── styles.css        # Estilos globales y reglas CSS
-│   │   └── responsive.css    # Media Queries y ajustes por dispositivo
-│   ├── js/
-│   │   └── main.js           # Scripts y funciones del sitio
-│   └── img/                  # Recursos gráficos e imágenes del proyecto
-├── index.html                # Página principal
-├── README.md                 # Documentación del proyecto
-└── LICENSE                   # Licencia de uso
-```
-🛠️ Tecnologías Utilizadas
-
-    HTML5: Estructuración del contenido web.
-
-    CSS3: Estilos, animaciones y maquetación adaptativa (Flexbox / CSS Grid).
-
-    JavaScript / PHP / Scripts locales: Funcionalidades dinámicas.
-
-    Git & GitHub: Control de versiones y alojamiento de código.
 
 💻 Instalar y Ejecutar Localmente
 
@@ -84,4 +60,19 @@ Sigue estos pasos para la configuración e instalación:
 Desarrollado por Selectron8 como parte de su proceso de formación en desarrollo web frontend.
 
     GitHub: @Selectron8
+    
+---
+## 📂 Estructura del Proyecto
 
+```text
+responsive-web-curso/
+├── assets/
+│   ├── css/
+│   │   ├── styles.css        # Estilos globales y reglas CSS
+│   │   └── responsive.css    # Media Queries y ajustes por dispositivo
+│   ├── js/
+│   │   └── main.js           # Scripts y funciones del sitio
+│   └── img/                  # Recursos gráficos e imágenes del proyecto
+├── index.html                # Página principal
+├── README.md                 # Documentación del proyecto
+└── LICENSE                   # Licencia de uso
